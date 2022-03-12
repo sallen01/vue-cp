@@ -38,7 +38,7 @@
     <div class="card-footer">
       <p>To get your photo shared:</p>
       <p>DM @syder333 on instagram</p>
-      <a href="https://github.com/BYUCS260/grocery-store-sallen01" target="-blank">Git Hub</a>
+      <a href="https://github.com/sallen01/vue-cp" target="-blank">Git Hub</a>
     </div>
   </div>
 </template>
