@@ -54,5 +54,36 @@
   border-top: 2px solid black;
   border-bottom: 2px solid black;
 }
+@media (max-width: 825px) {
+  .background-image img{
+    height: 150px;
+  }
+  .centered {
+    top: 50%;
+    left: 50%;
+    transform: translate(-47%, -350%);
+    color: white;
+    font-size: 40px;
+    text-shadow: -2px 0 black, 0 2px black, 1px 0 black, 0 -1px black;
+  }
+  .sub-text {
+    top: 50%;
+    left: 50%;
+    transform: translate(-46%,-480%);
+    color: white;
+    font-size: 10px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    //display: none;
+  }
+  .sub-text a {
+    width: 40%;
+  }
+  .buttons {
+    display: none;
+  }
+  .row {
+    border: 1px solid black;
+  }
+}
 
 </style>
